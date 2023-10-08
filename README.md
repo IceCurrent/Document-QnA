@@ -1,5 +1,5 @@
 # Document-QnA
-A simple Chat-Bot that fetches file from a Google Drive Directory and anwers queries based on the those documents. 
+A simple Chatbot that fetches files from a Google Drive Directory and answers queries based on those documents. 
 
 # How To Run
 Firstly you need to build an image of it using Docker!
